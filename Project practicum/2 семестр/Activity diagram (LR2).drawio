@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:08:03.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pmyBsjFkWDVLwVnxxePe" version="24.1.0" type="device">
+  <diagram name="Страница — 1" id="aBlgG0OkX1dZGpy68Csk">
+    <mxGraphModel dx="3635" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Пассажир&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-2360" y="45" width="270" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Система&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="45" width="300" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-7" target="moxnFNVGU6HGnPy6lsJy-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-7" value="Ставит багаж на ленту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2300" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-13" target="moxnFNVGU6HGnPy6lsJy-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-13" value="Багаж попадает в интроскоп" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2000" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-14" target="moxnFNVGU6HGnPy6lsJy-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-14" value="Интроскоп выводит рентген багажа" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2000" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-15" target="moxnFNVGU6HGnPy6lsJy-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-15" value="Нейронная сеть распознает данные" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2000" y="249.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="moxnFNVGU6HGnPy6lsJy-13" target="moxnFNVGU6HGnPy6lsJy-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-17" value="Обнаружение запрещенного предмета" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2005" y="335" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-27" target="moxnFNVGU6HGnPy6lsJy-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-27" value="Багаж проезжает дальше" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2080" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-28" target="moxnFNVGU6HGnPy6lsJy-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-28" value="Лента остановлена" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1920" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="moxnFNVGU6HGnPy6lsJy-17" target="moxnFNVGU6HGnPy6lsJy-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1980" y="435" as="sourcePoint" />
+            <mxPoint x="-1930" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2020" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="moxnFNVGU6HGnPy6lsJy-17" target="moxnFNVGU6HGnPy6lsJy-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1950" y="445" as="sourcePoint" />
+            <mxPoint x="-1900" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1860" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-32" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2065" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-33" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1875" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Оператор&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1790" y="45" width="260" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-35" value="Получение багажа" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2300" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="moxnFNVGU6HGnPy6lsJy-37" target="moxnFNVGU6HGnPy6lsJy-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-37" value="Подача сигнала оператору" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1920" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moxnFNVGU6HGnPy6lsJy-39" value="Просьба пройти на дополнительную проверку" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1700" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
